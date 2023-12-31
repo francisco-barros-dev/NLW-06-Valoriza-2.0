@@ -1,0 +1,9 @@
+node_modules
+.vscode
+dist
+coverage
+.eslintrc.json
+jest.config.json
+jest-integration-config.js
+jest-unit-config.js
+/src/database/database.sqlite
